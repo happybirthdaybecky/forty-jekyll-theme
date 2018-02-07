@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Happy Birthday!'
+landing-title: 'So, you\'re turning 30...'
 description: null
 image: null
 author: null
