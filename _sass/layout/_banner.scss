@@ -62,10 +62,11 @@
 
 			header {
 				width: auto;
-
+				
 				> :first-child {
 					width: auto;
-
+					background-color: _palette(yellow);
+				
 					&:after {
 						max-width: 100%;
 					}
@@ -99,8 +100,7 @@
 			height: 75vh;
 			min-height: 30em;
 			max-height: 50em;
-			background-color: _palette(yellow);
-
+			
 			&.alt {
 				  opacity: 0.15;
 			}
