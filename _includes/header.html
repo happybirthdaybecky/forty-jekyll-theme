@@ -13,9 +13,9 @@
 <nav id="menu">
 	<ul class="links">
 	<li><a href="{{ "" | absolute_url }}/">Home</a></li>
-        {% for post in site.posts %}
-		{% site.tiles-source == 'posts' %}
-		        <li><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></li>
+        {% for post in site.posts  limit:site.tiles-count %}
+		{% if site.tiles-source == 'posts' %}
+		        <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
 		{% endif %}
 	{% endfor %}
 	</ul>
