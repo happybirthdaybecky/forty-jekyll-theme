@@ -87,6 +87,9 @@
 				}
 
 				p {
+					@include vendor('transition', 'opacity #{_duration(banner)} ease');
+					@include vendor('transition-delay', '2.5s');
+					@include vendor('pointer-events', 'none');
 					font-size: 0.7em;
 					font-weight: _font(weight-bold);
 					letter-spacing: _font(letter-spacing-alt);
