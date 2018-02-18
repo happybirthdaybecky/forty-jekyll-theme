@@ -12,16 +12,12 @@
 <!-- Menu -->
 <nav id="menu">
 	<ul class="links">
+	<li><a href="{{ "" | absolute_url }}/">Home</a></li>
         {% for post in site.posts %}
-		    {% if post.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}/">{{ post.title }}</a></li>
-	    	{% endif %}
-		{% endfor %}
-		{% for post in site.posts %}
-		    {% if post.layout != "home" and post.nav-menu == true %}
+		{% site.tiles-source == 'posts' %}
 		        <li><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></li>
-		    {% endif %}
-		{% endfor %}
+		{% endif %}
+	{% endfor %}
 	</ul>
 	<ul class="actions vertical">
 		<li><a href="#" class="button special fit">Get Started</a></li>
