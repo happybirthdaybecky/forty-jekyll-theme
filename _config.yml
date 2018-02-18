@@ -4,7 +4,7 @@ subtitle:
 email: 
 description: ...Here are some thoughtful/playful notes from people who love you.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://happybirthdaybecky.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 author:
 street_address: 
 city: 
