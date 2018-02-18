@@ -2,6 +2,7 @@
 layout: post
 title: Consequat
 description: Ipsum dolor sit amet
+nav-menu: true
 image: assets/images/pic05.jpg
 ---
 
