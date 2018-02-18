@@ -65,10 +65,10 @@
 				
 				> :first-child {
 					width: auto;
-					background-color: _palette(yellow);
 				
 					&:after {
 						max-width: 100%;
+						background-color: _palette(yellow);
 					}
 				}
 			}
