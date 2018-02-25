@@ -6,6 +6,6 @@ nav-menu: true
 image: assets/images/thumbs/alicia_thumb.jpg
 ---
 
-![Alicia's Gif]({{ "/assets/images/alicia.gif" | absolute_url }})
+<img src="{{ '/assets/images/alicia.gif' | absolute_url }}" alt="Alicia's Gif" style="width: 100%;"/>
 
-![Alicia's Note]({{ "/assets/images/alicia_note.jpg" | absolute_url }})
+<img src="{{ '/assets/images/alicia_note.jpg' | absolute_url }}" alt="Alicia's Note" style="width: 100%;"/>
