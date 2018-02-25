@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quinton, Lane, and Albert White
+title: Quinton & Lane White
 description:
 nav-menu: true
 image: assets/images/thumbs/quintonlane_thumb.jpg
