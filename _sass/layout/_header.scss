@@ -85,6 +85,10 @@
 					padding-right: 1.5em;
 				}
 
+				&:hover {
+					color: _palette(bg);
+				}
+
 				&[href="#menu"] {
 					padding-right: 3.325em !important;
 
@@ -112,7 +116,6 @@
 
 					&:hover, &:active {
 						&:after {
-							color: _palette(bg);
 							opacity: 1;
 						}
 					}
