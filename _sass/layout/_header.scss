@@ -42,7 +42,7 @@
 					'color #{_duration(transition)} ease-in-out'
 				));
 				background-color: transparent/*_palette(fg-bold)*/;
-				border: 3px solid _palette(yellow);
+				border: 3px solid _palette(bg);
 				color: _palette(highlight);
 				display: inline-block;
 				line-height: 1.65em;
@@ -52,6 +52,7 @@
 
 			&:hover {
 				strong {
+					border: 3px solid _palette(yellow);
 					color: _palette(yellow);
 				}
 			}
