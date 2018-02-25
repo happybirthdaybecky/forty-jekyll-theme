@@ -25,6 +25,7 @@
 		top: -3.25em;
 
 		&:after {
+			@include vendor('transition', 'opacity #{_duration(banner)} ease');
 			@include vendor('transition-delay', '2.0s');
 			@include vendor('pointer-events', 'none');
 			background-color: _palette(bg-light);
@@ -32,7 +33,7 @@
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.45;
+			opacity: 0.75;
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -76,7 +77,6 @@
 				@include vendor('align-items', 'center');
 				margin: 0 0 _size(element-margin) 0;
 				margin-top: -25px;
-				color: _palette(bg-light);
 
 				> * {
 					margin-left: 1.5em;
@@ -88,9 +88,6 @@
 				}
 
 				p {
-					@include vendor('transition', (
-						'color #{_duration(transition)} ease-in-out'
-					));
 					color: _palette(bg);
 					font-size: 0.9em;
 					font-weight: _font(weight-bold);
