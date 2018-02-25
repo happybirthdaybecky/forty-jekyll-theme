@@ -43,7 +43,7 @@
 				));
 				background-color: transparent/*_palette(fg-bold)*/;
 				border: 3px solid _palette(yellow);
-				color: _palette(yellow);
+				color: _palette(highlight);
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
@@ -52,7 +52,7 @@
 
 			&:hover {
 				strong {
-					color: _palette(highlight);
+					color: _palette(yellow);
 				}
 			}
 
