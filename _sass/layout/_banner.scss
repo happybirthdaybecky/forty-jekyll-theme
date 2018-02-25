@@ -29,7 +29,7 @@
 			@include vendor('transition-delay', '2.0s');
 			@include vendor('pointer-events', 'none');
 			background-color: _palette(bg-light);
-			content: '';
+			/*content: '';*/
 			display: block;
 			height: 100%;
 			left: 0;
@@ -76,6 +76,7 @@
 				@include vendor('display', 'flex');
 				@include vendor('align-items', 'center');
 				margin: 0 0 _size(element-margin) 0;
+				margin-top: -25px;
 
 				> * {
 					margin-left: 1.5em;
@@ -87,7 +88,6 @@
 				}
 
 				p {
-					margin-top: -25px;
 					color: _palette(bg);
 					font-size: 0.9em;
 					font-weight: _font(weight-bold);
@@ -168,6 +168,7 @@
 					p {
 						br {
 							display: none;
+
 						}
 					}
 				}
