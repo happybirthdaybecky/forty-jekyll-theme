@@ -3,7 +3,7 @@ layout: post
 title: Sarah Comer
 description:
 nav-menu: true
-image: assets/images/thumbs/sarah_thumb.png
+image: assets/images/thumbs/sarah_thumb.jpg
 ---
 
 <img src="{{ '/assets/images/sarah.gif' | absolute_url }}" alt="Sarah's Gif" style="width: 100%;"/>

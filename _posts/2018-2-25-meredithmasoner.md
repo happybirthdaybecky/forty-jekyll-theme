@@ -3,7 +3,7 @@ layout: post
 title: Meredith Masoner
 description:
 nav-menu: true
-image: assets/images/thumbs/meredithmasoner_thumb.jpg
+image: assets/images/thumbs/merdithmasoner_thumb.jpg
 ---
 
 <img src="{{ '/assets/images/meredithmasoner.jpg' | absolute_url }}" alt="Meredith's Pic" style="width: 100%;"/>

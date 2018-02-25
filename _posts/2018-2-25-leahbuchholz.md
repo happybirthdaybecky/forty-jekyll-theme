@@ -3,7 +3,7 @@ layout: post
 title: Leah Buchholz
 description:
 nav-menu: true
-image: assets/images/thumbs/leah_thumb.jpg
+image: assets/images/thumbs/leah_thumb.png
 ---
 
 <img src="{{ '/assets/images/leah1.png' | absolute_url }}" alt="Leah's Pic" style="width: 100%;"/>
