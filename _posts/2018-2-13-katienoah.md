@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Katie, Noah, Lily, & Maggie Hall
+title: Katie, Noah, Lily, & Maggie
 description:
 nav-menu: true
 image: assets/images/thumbs/katienoah_thumb.png
