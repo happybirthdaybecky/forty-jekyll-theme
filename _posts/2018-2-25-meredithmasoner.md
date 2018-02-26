@@ -6,8 +6,6 @@ nav-menu: true
 image: assets/images/thumbs/meredithmasoner_thumb.jpg
 ---
 
-<img src="{{ '/assets/images/meredithmasoner.jpg' | absolute_url }}" alt="Meredith's Pic" style="width: 100%;"/>
-
 Becky,
 
 Itʼs fun to know that for our whole lives we will experience those milestone
@@ -35,3 +33,5 @@ Meredith Eades Masoner
 Ps- Pictured is us in January 1996 before we were baptized and myself on your
 wedding weekend enjoying the crisp air on the frozen Lincoln Memorial
 Reflecting Pool!
+
+<img src="{{ '/assets/images/meredithmasoner.jpg' | absolute_url }}" alt="Meredith's Pic" style="width: 100%;"/>

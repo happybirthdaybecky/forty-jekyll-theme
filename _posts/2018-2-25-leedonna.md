@@ -6,8 +6,6 @@ nav-menu: true
 image: assets/images/thumbs/leedonna_thumb.jpg
 ---
 
-<img src="{{ '/assets/images/leedonna.jpg' | absolute_url }}" alt="Mom and Dad's Gif" style="width: 100%;"/>
-
 Top 10 Becky Memories
 
 10) "I love cheese!"  "I hate cheese!"
@@ -55,3 +53,5 @@ Top 11 Things We Love About You, Becky, Because 10 is Not Enough
 2) Your love for family, friends, and Todd
 
 1) Your love for God
+
+<img src="{{ '/assets/images/leedonna.jpg' | absolute_url }}" alt="Mom and Dad's Gif" style="width: 100%;"/>

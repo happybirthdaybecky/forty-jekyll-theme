@@ -6,8 +6,6 @@ nav-menu: true
 image: assets/images/thumbs/sarah_thumb.jpg
 ---
 
-<img src="{{ '/assets/images/sarah.gif' | absolute_url }}" alt="Sarah's Gif" style="width: 100%;"/>
-
 HAPPY BIRTHDAY you beautiful ray of light! I'm so ever grateful that you were born and that I get to be friends with you across(tic) many seasons! Here's to the best season yet - the third decade!
 
 Booking it down to Meridian Hill Park and freestyle dancing at every red light is by far my favorite memory getting fit
@@ -21,3 +19,5 @@ Happiest days to you - our worlds sure are brighter with you in it!
 LYLAS,
 
 Sarah
+
+<img src="{{ '/assets/images/sarah.gif' | absolute_url }}" alt="Sarah's Gif" style="width: 100%;"/>
