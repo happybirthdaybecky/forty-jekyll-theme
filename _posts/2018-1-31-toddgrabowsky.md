@@ -109,15 +109,23 @@ of my memory — vast sky surf, cloud after cloud cresting, breaking<br /><b
 away to blue nothing. Each of us — lovers, mothers, runners, me — no more<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;than windblown swansdown.<br /><br />
 
+> John Constable's <em>Study of clouds</em>
+
 <img src="{{ '/assets/images/todd1.jpg' | absolute_url }}" alt="Todd's Pic" style="width: 100%;"/>
 
+> Renoir's <em>Les Parapluies</em>
+
 <img src="{{ '/assets/images/todd2.jpg' | absolute_url }}" alt="Todd's Pic" style="width: 100%;"/>
+
+> Piero della Francesca’s Frescoes
 
 <img src="{{ '/assets/images/todd3.jpg' | absolute_url }}" alt="Todd's Pic" style="width: 100%;"/>
 
 <img src="{{ '/assets/images/todd4.jpg' | absolute_url }}" alt="Todd's Pic" style="width: 100%;"/>
 
 When I read this poem, it made me think of our visit to the National Gallery to see the Gustave Caillebotte exhibit. I learned that he is one of your favorite artists and I locked that little gem away for future reference. I guess you could say it's bearing fruit now ;) We beheld his works. We discussed his art. And we ran into my coworker, Xavier, and his wife. And we bought sun paper and made sun prints. I confused you because I was so slow with my pursuit, but I hope it’s been worth the wait :)
+
+> Some of the Gustave Caillebotte paintings we saw together :)
 
 <img src="{{ '/assets/images/todd5.jpg' | absolute_url }}" alt="Todd's Pic" style="width: 100%;"/>
 
