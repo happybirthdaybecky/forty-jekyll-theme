@@ -3,7 +3,7 @@ layout: post
 title: Husband
 description:
 nav-menu: true
-image: assets/images/thumbs/todd_thumb.jpg
+image: assets/images/thumbs/todd_thumb.png
 ---
 
 Dearest Becky,
