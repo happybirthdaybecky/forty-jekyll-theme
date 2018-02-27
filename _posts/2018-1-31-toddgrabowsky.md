@@ -109,9 +109,9 @@ of my memory — vast sky surf, cloud after cloud cresting, breaking<br /><b
 away to blue nothing. Each of us — lovers, mothers, runners, me — no more<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;than windblown swansdown.<br /><br />
 
-<img src="{{ '/assets/images/todd1.jpg' | absolute_url }}" alt="Todd's Pic" style="width: 45%;"/>
+<img src="{{ '/assets/images/todd1.jpg' | absolute_url }}" alt="Todd's Pic" style="width: 100%;"/>
 
-<img src="{{ '/assets/images/todd2.jpg' | absolute_url }}" alt="Todd's Pic" style="width: 45%;"/>
+<img src="{{ '/assets/images/todd2.jpg' | absolute_url }}" alt="Todd's Pic" style="width: 100%;"/>
 
 <img src="{{ '/assets/images/todd3.jpg' | absolute_url }}" alt="Todd's Pic" style="width: 100%;"/>
 
@@ -119,13 +119,13 @@ away to blue nothing. Each of us — lovers, mothers, runners, me — no
 
 When I read this poem, it made me think of our visit to the National Gallery to see the Gustave Caillebotte exhibit. I learned that he is one of your favorite artists and I locked that little gem away for future reference. I guess you could say it's bearing fruit now ;) We beheld his works. We discussed his art. And we ran into my coworker, Xavier, and his wife. And we bought sun paper and made sun prints. I confused you because I was so slow with my pursuit, but I hope it’s been worth the wait :)
 
-<img src="{{ '/assets/images/todd5.jpg' | absolute_url }}" alt="Todd's Pic" style="width: 45%;"/>
+<img src="{{ '/assets/images/todd5.jpg' | absolute_url }}" alt="Todd's Pic" style="width: 100%;"/>
 
-<img src="{{ '/assets/images/todd6.jpg' | absolute_url }}" alt="Todd's Pic" style="width: 45%;"/>
+<img src="{{ '/assets/images/todd6.jpg' | absolute_url }}" alt="Todd's Pic" style="width: 100%;"/>
 
-<img src="{{ '/assets/images/todd7.jpg' | absolute_url }}" alt="Todd's Pic" style="width: 45%;"/>
+<img src="{{ '/assets/images/todd7.jpg' | absolute_url }}" alt="Todd's Pic" style="width: 100%;"/>
 
-<img src="{{ '/assets/images/todd8.jpg' | absolute_url }}" alt="Todd's Pic" style="width: 45%;"/>
+<img src="{{ '/assets/images/todd8.jpg' | absolute_url }}" alt="Todd's Pic" style="width: 100%;"/>
 
 That was before I knew how much you loved trees. But now I know and it’s one of my favorite things about you. I love discovering new things about you. It’s something I’m most excited about as we get older together. There’s an infinite number of things for us to learn about each other. And I’m excited to continue surprising each other with new projects and new adventures and new ways to love each other and love others and new silly voices and new games to play and new places to see. I know nothing is guaranteed, but wherever the future takes us, I’m excited to be tackling it together. I love you and I hope you know how very loved you are today and always.
 
